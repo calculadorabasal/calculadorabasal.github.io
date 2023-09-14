@@ -28,6 +28,7 @@ p { color: rgb(138, 138, 233)  }
         height: 100%;
         float: left;
         color: #f6f5f7;
+        text-align: justify;
      }
      #contenido{
         position: relative;
@@ -35,6 +36,7 @@ p { color: rgb(138, 138, 233)  }
         transform: translateY(-50%);
         overflow: hidden;
         padding: 40px;
+        text-align: center;
     }
     input{
             width: 70%;
